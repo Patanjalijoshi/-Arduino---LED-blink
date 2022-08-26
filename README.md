@@ -17,3 +17,10 @@ This a basic experiment in which an led is connected to an arduino and is made t
 
 ### Code details:
 The code is written in C and the Arduino IDE is used to compile and write code on to the Arduino Mega 2560 
+
+### video:
+
+
+https://user-images.githubusercontent.com/86454491/186899785-b7c7c675-8b03-4ac0-b52c-7244074a9319.mp4
+
+
