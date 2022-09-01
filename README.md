@@ -1,8 +1,4 @@
 # Arduino---LED-blink
-This repository deals with blinking an led using arduino
-
-
-## LED Blink
 This a basic experiment in which an led is connected to an arduino and is made to blink
 
 ### Components used:
