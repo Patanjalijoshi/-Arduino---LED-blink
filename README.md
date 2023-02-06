@@ -1,5 +1,6 @@
 # Arduino---LED-blink
-This a basic experiment in which an led is connected to an arduino and is made to blink
+This a basic experiment in which an led is connected to an Arduino and is made to blink
+
 
 ### Components used:
 * Arduino Mega 2560 (The code will be compatable with the Arduino uno as well)
